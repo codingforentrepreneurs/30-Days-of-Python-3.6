@@ -4,6 +4,8 @@ For the next 30 days, learn the Python Programming language.
 
 [Python Cheat Sheet](./PythonCheatSheet.md)
 
+
+### Lectures 
 Day 1: _coming soon_
 
 Day 2: _coming soon_
