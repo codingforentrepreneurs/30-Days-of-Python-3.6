@@ -6,15 +6,17 @@ For the next 30 days, learn the Python Programming language.
 
 
 ### Lectures 
-Day 1: _coming soon_
+Day 1: [Watch]()
 
-Day 2: _coming soon_
+Day 2: [Watch]()
 
-Day 3: _coming soon_
+Day 3: [Watch]()
 
-Day 4: _coming soon_
+Day 4: [Watch]()
 
-Day 5: _coming soon_
+Day 5: 
+    [Watch]()
+    [Code](./Day 5/)
 
 Day 6: _coming soon_
 
