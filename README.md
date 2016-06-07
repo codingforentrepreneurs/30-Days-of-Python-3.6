@@ -6,16 +6,16 @@ For the next 30 days, learn the Python Programming language.
 
 
 ### Lectures 
-Day 1: [Watch]()
+Day 1 - Basics: Setup, Strings, Variables, and Integers: [Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-1-basics-setup-strings-variables-and-integers/)
 
-Day 2: [Watch]()
+Day 2 - Lists: Dictionaries, & Tuples: [Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-2-lists-dictionaries-tuples/)
 
-Day 3: [Watch]()
+Day 3 - Loops: For Loops & While Loops: [Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-3-loops-loops-while-loops/)
 
-Day 4: [Watch]()
+Day 4 - Conditionals: Expressions, if, else if (elif), else : [Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-4-conditionals-expressions-if-else-if-elif-els/)
 
-Day 5: 
-    [Watch]()
+Day 5 Functions: 
+    [Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-5-functions/)
     [Code](./Day 5/)
 
 Day 6: _coming soon_
