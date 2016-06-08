@@ -14,11 +14,13 @@ Day 3 - Loops: For Loops & While Loops: [Watch](https://www.codingforentrepreneu
 
 Day 4 - Conditionals: Expressions, if, else if (elif), else : [Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-4-conditionals-expressions-if-else-if-elif-els/)
 
-Day 5 Functions: 
+Day 5 - Functions: 
     [Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-5-functions/)
     [Code](./Day 5/)
 
-Day 6: _coming soon_
+Day 6 - String Formatting, Substitution & more Functions: 
+    [Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-6-string-formatting-substitution-and-more-func/)
+    [Code](./Day 6/)
 
 Day 7: _coming soon_
 
