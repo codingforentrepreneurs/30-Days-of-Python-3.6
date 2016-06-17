@@ -22,19 +22,26 @@ Day 6 - String Formatting, Substitution & more Functions:
     [Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-6-string-formatting-substitution-and-more-func/)
     [Code](./Day 6/)
 
-Day 7: _coming soon_
+Day 7 - Classes:
+    [Code](./Day 7/)
 
-Day 8: _coming soon_
+Day 8 - Classes Part 2:
+    [Code](./Day 8/)
 
-Day 9: _coming soon_
+Day 9 - Classes Part 3, Importing, Custom Py Modules:
+    [Code](./Day 9/)
 
-Day 10: _coming soon_
+Day 10 - Setup Python to Send Email with Gmail: 
+    [Code](./Day 10/)
 
-Day 11: _coming soon_
+Day 11 - HTML and Plain Text Emails through Python and Gmail: 
+    [Code](./Day 11/)
 
-Day 12: _coming soon_
+Day 12 - Send Formatted Emails to a Set of Users with Python: 
+    [Code](./Day 12/)
 
-Day 13: _coming soon_
+Day 13 - Using External Template Files with Context Data in Python: 
+    [Code](./Day 13/)
 
 Day 14: _coming soon_
 
