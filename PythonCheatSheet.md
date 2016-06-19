@@ -201,7 +201,7 @@ file_obj = open(file_name, "<mode>")
 ```
 
 | Mode          | Description   |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 | "r"           | Read only. Default mode. |
 | "rb"          | Read only in binary format |
 | "r+"          | Read and write |
