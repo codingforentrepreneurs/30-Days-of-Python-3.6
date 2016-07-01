@@ -43,21 +43,26 @@ Day 12 - Send Formatted Emails to a Set of Users with Python:
 Day 13 - Using External Template Files with Context Data in Python: 
     [Code](./Day 13/)
 
-Day 14: _coming soon_
+Day 14 - CSV Files with Python - Read, Write, & Append:
+    [Code](./Day 14/)
 
-Day 15: _coming soon_
+Day 15 - Functions to Dynamically Add Data to CSV with Python:
+    [Code](./Day 15/)
 
-Day 16: _coming soon_
+Day 16 - Edit CSV with Python:
+    [Code](./Day 16/)
 
-Day 17: _coming soon_
+Day 17 - Read Data Function for CSV File: 
+    [Code](./Day 17/)
 
-Day 18: _coming soon_
+Day 18 - Running Python Commands wih Arguments in Terminal: 
+    [Code](./Day 18/)
 
-Day 18: _coming soon_
+Day 19 - Integrating Part 1: 
+    [Code](./Day 19/)
 
-Day 19: _coming soon_
-
-Day 20: _coming soon_
+Day 20 - Integrating Part 2: 
+    [Code](./Day 20/)
 
 Day 21: _coming soon_
 
