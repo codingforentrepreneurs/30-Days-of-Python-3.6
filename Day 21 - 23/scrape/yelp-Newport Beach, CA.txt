@@ -1,0 +1,154 @@
+Moby’s Original Fish Sandwich
+<address>
+            Huntington Beach, CA 92649
+        </address>
+
+        (714) 595-5935
+    Mama D’s Italian Kitchen
+<address>
+            3012 Newport Blvd<br>Newport Beach, CA 92663
+        </br></address>
+
+        (949) 675-6262
+    Oak Grill
+<address>
+            690 Newport Center Dr<br>Newport Beach, CA 92660
+        </br></address>
+
+        (949) 760-4920
+    R + D Kitchen
+<address>
+            555 Newport Ctr Dr<br>Newport Beach, CA 92660
+        </br></address>
+
+        (949) 219-0555
+    Stag Bar + Kitchen
+<address>
+            121 Mc Fadden Pl<br>Newport Beach, CA 92663
+        </br></address>
+
+        (949) 673-4470
+    Great Mex
+<address>
+            703 E Balboa Blvd<br>Newport Beach, CA 92661
+        </br></address>
+
+        (949) 675-0808
+    True Food Kitchen
+<address>
+            451 Newport Center Dr<br>Newport Beach, CA 92660
+        </br></address>
+
+        (949) 644-2400
+    SOL Cocina
+<address>
+            251 E Coast Hwy<br>Newport Beach, CA 92660
+        </br></address>
+
+        (949) 675-9800
+    Lotus Bistro
+<address>
+            325 Old Newport Blvd<br>Newport Beach, CA 92663
+        </br></address>
+
+        (949) 287-6827
+    Bear Flag Fish Company
+<address>
+            3421 Via Lido<br>Newport Beach, CA 92663
+        </br></address>
+
+        (949) 673-3474
+    A Restaurant
+<address>
+            3334 W Coast Hwy<br>Newport Beach, CA 92663
+        </br></address>
+
+        (949) 650-6505
+    Moby’s Original Fish Sandwich
+<address>
+            Huntington Beach, CA 92649
+        </address>
+
+        (714) 595-5935
+    
+
+Mama D’s Italian Kitchen
+<address>
+            3012 Newport Blvd<br>Newport Beach, CA 92663
+        </br></address>
+
+        (949) 675-6262
+    
+
+Oak Grill
+<address>
+            690 Newport Center Dr<br>Newport Beach, CA 92660
+        </br></address>
+
+        (949) 760-4920
+    
+
+R + D Kitchen
+<address>
+            555 Newport Ctr Dr<br>Newport Beach, CA 92660
+        </br></address>
+
+        (949) 219-0555
+    
+
+Stag Bar + Kitchen
+<address>
+            121 Mc Fadden Pl<br>Newport Beach, CA 92663
+        </br></address>
+
+        (949) 673-4470
+    
+
+Great Mex
+<address>
+            703 E Balboa Blvd<br>Newport Beach, CA 92661
+        </br></address>
+
+        (949) 675-0808
+    
+
+True Food Kitchen
+<address>
+            451 Newport Center Dr<br>Newport Beach, CA 92660
+        </br></address>
+
+        (949) 644-2400
+    
+
+SOL Cocina
+<address>
+            251 E Coast Hwy<br>Newport Beach, CA 92660
+        </br></address>
+
+        (949) 675-9800
+    
+
+Lotus Bistro
+<address>
+            325 Old Newport Blvd<br>Newport Beach, CA 92663
+        </br></address>
+
+        (949) 287-6827
+    
+
+Bear Flag Fish Company
+<address>
+            3421 Via Lido<br>Newport Beach, CA 92663
+        </br></address>
+
+        (949) 673-3474
+    
+
+A Restaurant
+<address>
+            3334 W Coast Hwy<br>Newport Beach, CA 92663
+        </br></address>
+
+        (949) 650-6505
+    
+
