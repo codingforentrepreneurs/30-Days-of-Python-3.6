@@ -67,8 +67,8 @@ Day 20 | Integrating Part 2:
 Day 21 - 23 | Web Scraping Part 1 - 3: 
     [Code](./Day 21 - 23/)
 
-
-Day 24: _coming soon_
+Day 24 | Day 24 - Web Scraping Part 4: 
+    [Code](./Day 24/)
 
 Day 25: _coming soon_
 
