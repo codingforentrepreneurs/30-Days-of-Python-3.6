@@ -70,7 +70,8 @@ Day 21 - 23 | Web Scraping Part 1 - 3:
 Day 24 | Day 24 - Web Scraping Part 4: 
     [Code](./Day 24/)
 
-Day 25: _coming soon_
+Day 25 | Day 25 - Web Scraping on Javascript-Driven HTML using Python:
+    [Code](./Day 25/)
 
 Day 25: _coming soon_
 
