@@ -76,7 +76,8 @@ Day 25 | Web Scraping on Javascript-Driven HTML using Python:
 Day 26 | Get Data with an API: 
     [Code](./Day 26/)
 
-Day 27: _coming soon_
+Day 27 | Sending SMS Messages with Python and Twilio:
+    [Code](./Day 27/)
 
 Day 28: _coming soon_
 
