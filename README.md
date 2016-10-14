@@ -79,7 +79,8 @@ Day 26 | Get Data with an API:
 Day 27 | Sending SMS Messages with Python and Twilio:
     [Code](./Day 27/)
 
-Day 28: _coming soon_
+Day 28 | Twilio Python Client & SMS:
+    [Code](./Day 28/)
 
 Day 29: _coming soon_
 
