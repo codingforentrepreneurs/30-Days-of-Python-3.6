@@ -82,7 +82,8 @@ Day 27 | Sending SMS Messages with Python and Twilio:
 Day 28 | Twilio Python Client & SMS:
     [Code](./Day 28/)
 
-Day 29: _coming soon_
+Day 29: Twitter API with Python and `python-twitter`:
+    [Code](./Day 29/)
 
 Day 30: _coming soon_
 
