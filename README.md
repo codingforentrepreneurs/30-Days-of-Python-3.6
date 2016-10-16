@@ -82,13 +82,16 @@ Day 27 | Sending SMS Messages with Python and Twilio:
 Day 28 | Twilio Python Client & SMS:
     [Code](./Day 28/)
 
-Day 29: Twitter API with Python and `python-twitter`:
+Day 29 | Twitter API with Python and `python-twitter`:
     [Code](./Day 29/)
 
-Day 30: Read Email Inbox using Python & Gmail: [Code](./Day 30/)
+Day 30 | Read Email Inbox using Python & Gmail: [Code](./Day 30/)
     In this one we cover: 
+
     - Login with IMAP
+
     - Fetch & Convert Email
+    
     - Save Emails & Attachments Locally
    
 
