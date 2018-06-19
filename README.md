@@ -18,17 +18,17 @@ Day 5 | Functions: [Watch](https://www.codingforentrepreneurs.com/projects/30-da
 
 Day 6 | String Formatting, Substitution & more Functions: [Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-6-string-formatting-substitution-and-more-func/) [Code](../master/Day 6/)
 
-Day 7 | Classes: [Code](../master/Day 7/)
+Day 7 | Classes:[Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-7-classes/?play=true) [Code](../master/Day 7/)
 
-Day 8 | Classes Part 2: [Code](../master/Day 8/)
+Day 8 | Classes Part 2:[Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-8-classes-part-2/?play=true) [Code](../master/Day 8/)
 
-Day 9 | Classes Part 3, Importing, Custom Py Modules: [Code](../master/Day 9/)
+Day 9 | Classes Part 3, Importing, Custom Py Modules:[Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-9-classes-part-3-importing-custom-py-modules/?play=true) [Code](../master/Day 9/)
 
-Day 10 | Setup Python to Send Email with Gmail: [Code](../master/Day 10/)
+Day 10 | Setup Python to Send Email with Gmail:[Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-10-setup-python-send-email-gmail/?play=true) [Code](../master/Day 10/)
 
-Day 11 | HTML and Plain Text Emails through Python and Gmail: [Code](../master/Day 11/)
+Day 11 | HTML and Plain Text Emails through Python and Gmail:[Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-11-html-plain-text-emails-through-python-and-g/?play=true) [Code](../master/Day 11/)
 
-Day 12 | Send Formatted Emails to a Set of Users with Python: [Code](../master/Day 12/)
+Day 12 | Send Formatted Emails to a Set of Users with Python:[Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-12-send-formatted-emails-set-users/?play=true) [Code](../master/Day 12/)
 
 Day 13 | Using External Template Files with Context Data in Python: [Code](../master/Day 13/)
 
