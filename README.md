@@ -1,8 +1,6 @@
-<div style='background-color:red; text-color:white; padding: 1rem;'>
-    This project has been archived. Check out the new version [here](https://github.com/codingforentrepreneurs/30-Days-of-Python)
-</div>
+# ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) This project has been archived. Check out the new version [here](https://github.com/codingforentrepreneurs/30-Days-of-Python) ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 
-# 30 Days of Python 3.6
+####  30 Days of Python 3.6
 
 For the next 30 days, learn the Python Programming language.
 
